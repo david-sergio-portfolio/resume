@@ -1,6 +1,6 @@
 # David Sergio
 
-`[see provided email]` \| `[see attached phone]` \|
+`[see provided email]` \| \[see attached phone\] \|
 <https://www.linkedin.com/in/davidsergio/>
 
 # Profile
