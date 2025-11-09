@@ -1,7 +1,15 @@
 # David Sergio
 
-`[see provided email]` \| \[see attached phone\] \|
-<https://www.linkedin.com/in/davidsergio/>
+------------------------------------------------------------------------
+
+|              |                                             |
+|:-------------|--------------------------------------------:|
+| **Contact:** |                      `[see provided email]` |
+|              |                      \[see attached phone\] |
+|              |                                             |
+| **Links:**   |  <https://www.linkedin.com/in/davidsergio/> |
+|              |                                             |
+|              | <https://github.com/david-sergio-portfolio> |
 
 # Profile
 
