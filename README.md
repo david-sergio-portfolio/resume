@@ -2,27 +2,26 @@
 
 ------------------------------------------------------------------------
 
-|              |                                             |
-|:-------------|--------------------------------------------:|
-| **Contact:** |                      `[see provided email]` |
-|              |                      \[see attached phone\] |
-|              |                                             |
-| **Links:**   |  <https://www.linkedin.com/in/davidsergio/> |
-|              |                                             |
-|              | <https://github.com/david-sergio-portfolio> |
+|              |                                            |
+|:-------------|-------------------------------------------:|
+| **Contact:** |                     `[see provided email]` |
+|              |                     \[see attached phone\] |
+|              |                                            |
+| **Links:**   | <https://www.linkedin.com/in/davidsergio/> |
 
 # Profile
 
 - **Professional**: 10+ years of professional experience in marketing
-  technology (MarTech) and website analytics design and implementation.
-  5+ years of experience in full stack web development, working directly
-  in architecture of massive data collection solutions. Expert in the
-  Adobe Experience and Google Analytics stacks, and in customer data
-  platforms (e.g. Tealium Eventstream), and mobile app analytics.
+  technology (MarTech) and website analytics design and implementation,
+  working directly in architecture of massive data collection solutions.
+  Expert in the Adobe Experience and Google Analytics stacks, and in
+  customer data platforms (e.g. Tealium Eventstream), and mobile app
+  analytics. University-level instructor in object-oriented programming,
+  data structures, and algorithms.
 
 - **Academic**: Researcher and university-level instructor. Research in
-  computer science, physics, and astronomy, emphasizing deep learning
-  for astronomical datasets, GPU computing, cloud computing, software
+  Provenance-Aware Machine Learning Pipelines for Large Astronomical
+  Surveys. Coursework in GPU computing, cloud computing, software
   engineering, information security, data science, and scientific
   applications of big data and deep learning.
 
@@ -44,10 +43,12 @@
 
 - Recipient of the Graduate Service Appointments (GSA) Scholarship,
   awarded on a competitive basis to students of outstanding promise,
-  includes tuition, teaching assistant (TA) employment in the graduate
-  school, working directly with faculty and students. TA work includes
-  analysis of student work, writing JUnit tests for automation, grading,
-  helping students, scheduling, and other tasks for courses including
+  includes employment in the graduate school, working directly with
+  faculty and students. Worked as an instructor for Programming
+  Principles II, including course design, homework and exams, grading,
+  and office hours. Grading work included analysis of student work,
+  writing JUnit tests for automation, helping students, scheduling, and
+  other tasks for Programming Principles II and other courses including
   algorithms, data structures, and senior capstone.
 
 - Coursework includes big data analytics (Spark, Python), machine
@@ -86,12 +87,6 @@ University** 2020
 
 - Database and Analytics: MySQL, DynamoDB, NoSQL, Hadoop Map Reduce,
   classification, cluster analysis using R, RapidMiner, and Java.
-
-- Security: Authorization, file encryption, buffer overrun, penetration
-  testing, cryptography.
-
-- Scripting, regex, networking, Linux, version control (e.g. git and
-  Github).
 
 <u>B.S., Physics</u>, **Western Washington University** 2009
 
