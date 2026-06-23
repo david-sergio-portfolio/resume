@@ -20,11 +20,11 @@
   Adobe Experience and Google Analytics stacks, and in customer data
   platforms (e.g. Tealium Eventstream), and mobile app analytics.
 
-- **Academic**: Graduate student, researcher and university-level
-  instructor. Research in computer science, physics, and astronomy,
-  emphasizing deep learning for astronomical datasets, GPU computing,
-  cloud computing, software engineering, information security, data
-  science, and scientific applications of big data and deep learning.
+- **Academic**: Researcher and university-level instructor. Research in
+  computer science, physics, and astronomy, emphasizing deep learning
+  for astronomical datasets, GPU computing, cloud computing, software
+  engineering, information security, data science, and scientific
+  applications of big data and deep learning.
 
 - **Motivated Worker**: Creative, collaborative, passionate
   people-person, consultant, team member, educator, researcher, and
@@ -38,10 +38,9 @@
 
 # Education
 
-<u>M.S., Computer Science</u>, **Eastern Washington University**
-Expected Graduation 2026
+<u>M.S., Computer Science</u>, **Eastern Washington University** 2026
 
-- GPA: 3.95 (4.00 scale)
+- GPA: 3.89 (4.00 scale)
 
 - Recipient of the Graduate Service Appointments (GSA) Scholarship,
   awarded on a competitive basis to students of outstanding promise,
@@ -53,16 +52,18 @@ Expected Graduation 2026
 
 - Coursework includes big data analytics (Spark, Python), machine
   learning (Python), deep learning (PyTorch), GPU computing (C/CUDA),
-  advanced algorithms (Java), flight simulation (Unity, C#), and
-  research methods.
+  advanced algorithms (Java), flight simulation and game development
+  (Unity, C#), and research methods.
 
-- Independent research projects include GPGPU data structures,
-  astronomical sky surveys analysis using distributed computing (Apache
-  Spark, Hadoop), astronomical deep learning (PyTorch). Thesis work in
-  astronomical deep learning.
+- Experience with Python software developement, supervised and
+  unsupervised machine learning, deep learning, GPU computing, and big
+  data analytics.
+
+- Thesis: Provenance-Aware Machine Learning Pipelines for Large
+  Astronomical Surveys
 
 <u>B.S., Computer Science</u>, *Summa Cum Laude*, **Eastern Washington
-University**
+University** 2020
 
 - GPA: 3.93 (4.00 scale)
 
@@ -92,7 +93,7 @@ University**
 - Scripting, regex, networking, Linux, version control (e.g. git and
   Github).
 
-<u>B.S., Physics</u>, **Western Washington University**
+<u>B.S., Physics</u>, **Western Washington University** 2009
 
 - Senior project building a Mössbauer spectrometer calibrator.
 
@@ -105,7 +106,7 @@ University**
 # Professional Experience
 
 <u>Graduate Student Instructor</u>, **Eastern Washington University**
-September 2025 - Present
+September 2025 - June 2026
 
 - Teaching Computer Science - Programming Principles II (CSCD211), a
   university-level computer science course in Java object-oriented
@@ -180,8 +181,8 @@ September 2024 - June 2025
   high level relative to my peers and to the industry, and a highly
   sought-after consultant and analyst.
 
-<u>Web Developer / Information Technology</u>, **VitaminLife.com** -
-August 2013
+<u>Web Developer / Information Technology</u>, **VitaminLife.com**
+2011 - August 2013
 
 - E-Commerce web development with CMS, MySQL, PHP, JavaScript, HTML/CSS.
 
@@ -190,42 +191,18 @@ August 2013
 
 ------------------------------------------------------------------------
 
-# Climbing
-
-- 10+ years of traditional rock climbing and mountaineering experience
-  in a variety of environments.
-
-- Several first ascents in the Pacific Northwest, including new route
-  development on big walls and boulders.
-
-## Notable Climbs
-
-| Route                            | Area                       | Notes                                        |           Date |
-|:---------------------------------|:---------------------------|:---------------------------------------------|---------------:|
-| Ma’at                            | Dishman Hills, Spokane, WA | 5.10c, first free ascent                     |      June 2025 |
-| Kamiakin Roof                    | Boomtown, WA               | 5.13+ A3, first ascent (aid), bolted on lead | September 2024 |
-| Lifestream                       | Boomtown, WA               | 5.11b, first free ascent                     |      July 2024 |
-| Mako Boulder                     | Boomtown, WA               | development, V0 - V4 first ascents           |    2024 - 2025 |
-| Epinephrine                      | Las Vegas, NV              | 5.9, trad, 16 pitches                        |       May 2024 |
-| Mt. Stuart, West Ridge           | Enchantments, WA           | 5.8, solo                                    |      July 2023 |
-| Rebel Yell                       | North Cascades, WA         | 5.10+, bolted new rappel descent line        | September 2022 |
-| Mt. Stuart, Complete North Ridge | Enchantments, WA           | 5.9, alpine, trad, 2800 ft                   |      July 2018 |
-| Mt. Baker, Coleman-Deming        | Mt. Baker, WA              | glacier, ski descent                         |       May 2017 |
-
-------------------------------------------------------------------------
-
 # Certifications
 
-- Google Analytics – Google Analytics Certification
+- Google Analytics – Google Analytics Certification 2024
 
-- Adobe Certified Expert – Adobe Analytics Developer
+- Adobe Certified Expert – Adobe Analytics Developer 2021
 
-- AWS Cloud Practitioner Essentials (Second Edition)
+- AWS Cloud Practitioner Essentials (Second Edition) 2019
 
-- Merkle Digital Professional (Analytics, Marketing Technologies)
+- Merkle Digital Professional (Analytics, Marketing Technologies) 2017
 
-- Google Analytics
+- Google Analytics 2016
 
-- Ensighten Manage Certified Partner
+- Ensighten Manage Certified Partner 2016
 
-- Tealium Tag Management
+- Tealium Tag Management 2014
