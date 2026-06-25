@@ -4,34 +4,25 @@
 
 |              |                                            |
 |:-------------|-------------------------------------------:|
-| **Contact:** |                     `[see provided email]` |
-|              |                     \[see attached phone\] |
+| **Contact:** |                  `davidsergio52@gmail.com` |
+|              |                           \(425\) 780-2487 |
 |              |                                            |
 | **Links:**   | <https://www.linkedin.com/in/davidsergio/> |
 
 # Profile
 
-- **Professional**: 10+ years of professional experience in marketing
-  technology (MarTech) and website analytics design and implementation,
-  working directly in architecture of massive data collection solutions.
-  Expert in the Adobe Experience and Google Analytics stacks, and in
-  customer data platforms (e.g. Tealium Eventstream), and mobile app
-  analytics. University-level instructor in object-oriented programming,
-  data structures, and algorithms.
-
-- **Academic**: Researcher and university-level instructor. Research in
-  Provenance-Aware Machine Learning Pipelines for Large Astronomical
-  Surveys. Coursework in GPU computing, cloud computing, software
-  engineering, information security, data science, and scientific
-  applications of big data and deep learning.
-
-- **Motivated Worker**: Creative, collaborative, passionate
+- **Professional**: 10+ years of professional experience in developing
+  data collection software solutions for marketing technology (MarTech),
+  working directly in web development and architecture of massive data
+  collection solutions. Creative, collaborative, passionate
   people-person, consultant, team member, educator, researcher, and
   mentor.
 
-- **Athlete**: 10+ years of traditional rock climbing and mountaineering
-  experience, including several first ascents and new route development
-  in the Pacific Northwest.
+- **Academic and Research**: Top-performing graduate and undergraduate
+  computer science student, researcher, and university-level instructor
+  in object-oriented programming principles. Particicpated in
+  instructing, mentoring, and in special events such as hackathons and
+  research symposiums.
 
 ------------------------------------------------------------------------
 
@@ -42,23 +33,27 @@
 - GPA: 3.89 (4.00 scale)
 
 - Recipient of the Graduate Service Appointments (GSA) Scholarship,
-  awarded on a competitive basis to students of outstanding promise,
-  includes employment in the graduate school, working directly with
-  faculty and students. Worked as an instructor for Programming
-  Principles II, including course design, homework and exams, grading,
-  and office hours. Grading work included analysis of student work,
-  writing JUnit tests for automation, helping students, scheduling, and
-  other tasks for Programming Principles II and other courses including
-  algorithms, data structures, and senior capstone.
+  awarded on a competitive basis to students of outstanding promise.
+  Includes employment in the university, working directly with faculty
+  and students.
 
-- Coursework includes big data analytics (Spark, Python), machine
+- Worked as a Eastern Washington University Instructor for Programming
+  Principles II, including complete course design, writing homework and
+  exams, grading, and office hours. My course design centered on
+  object-oriented principles, and used git workflows for assignments.
+  Grading included analysis of student work, writing JUnit tests for
+  automation, helping students, scheduling, and other tasks for
+  Programming Principles II. Also helped with grading for courses
+  including algorithms, data structures, and senior capstone.
+
+- Coursework included big data analytics (Spark, Python), machine
   learning (Python), deep learning (PyTorch), GPU computing (C/CUDA),
   advanced algorithms (Java), flight simulation and game development
-  (Unity, C#), and research methods.
+  (Unity, C#), and research methods (technical writing, tex, research).
 
-- Experience with Python software developement, supervised and
-  unsupervised machine learning, deep learning, GPU computing, and big
-  data analytics.
+- Designed and implemented modular ML systems in Python, covering
+  supervised, unsupervised, and deep learning — with clean OOP
+  architecture and YAML-based configuration
 
 - Thesis: Provenance-Aware Machine Learning Pipelines for Large
   Astronomical Surveys
@@ -68,25 +63,20 @@ University** 2020
 
 - GPA: 3.93 (4.00 scale)
 
-- Computer Science Outstanding Students Award.
+- Awarded the Computer Science Outstanding Students Award and made the
+  Dean’s List consistently.
 
-- Java OOP, parallel and cloud computing, networking, C++ generics, OS
-  programming in C, .NET Design, Visual Studio development, Azure
-  DevOps.
+- Java (object-oriented programming, Spring Boot, AWS REST APIs), C++
+  (generics), C (OS programming), C# (.NET/ASP.NET Core, Azure REST
+  APIs), PHP (REST APIs), Python; web: Node.js, TypeScript, Vue.js,
+  React, JavaScript/jQuery, HTML/CSS, Bootstrap; mobile: Android
+  (Lifecycle, Canvas, Fragments, API integration); cloud & DevOps: Azure
+  DevOps, AWS, parallel & cloud computing;
 
-- Software Engineering: agile project management, kanban, requirements
-  gathering, dependency management.
-
-- Web Development: ASP.NET Core, Java Springboot, Node.js, Typescript,
-  VueJS, ReactJS, JavaScript, jQuery, HTML/CSS, PHP, Bootstrap, REST
-  API: Java (AWS), C# (ASP.NET Core and Azure), and PHP, Postman and
-  related tools.
-
-- Mobile Development: Android Lifecycle, Canvas, Fragments, External
-  Libraries, API integration.
-
-- Database and Analytics: MySQL, DynamoDB, NoSQL, Hadoop Map Reduce,
-  classification, cluster analysis using R, RapidMiner, and Java.
+- Databases: MySQL, DynamoDB, NoSQL, Hadoop MapReduce; analytics: R,
+  RapidMiner; architecture: REST API design, ASP.NET Core, networking,
+  OS-level programming; methodology: Agile, Kanban, requirements
+  gathering, dependency management
 
 <u>B.S., Physics</u>, **Western Washington University** 2009
 
@@ -114,9 +104,6 @@ September 2025 - June 2026
 
 <u>Teaching Assistant (TA)</u>, **Eastern Washington University**
 September 2024 - June 2025
-
-- Graduate Service Appointments (GSA) for graduate students of
-  outstanding promise.
 
 - Analysis of student work, writing JUnit tests for grading, helping
   students, scheduling, and other tasks.
@@ -160,7 +147,8 @@ September 2024 - June 2025
   (including automated testing), reporting, integrations, and
   dashboarding.
 
-<u>Solutions Engineer</u>, **Merkle** August 2013 - December 2017
+<u>Solutions Engineer</u>, **Pointmarc/Merkle** August 2013 - December
+2017
 
 - Originally worked for the startup **Pointmarc** which was acquired by
   **Merkle** in 2015.
